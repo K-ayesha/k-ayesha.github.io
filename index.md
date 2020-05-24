@@ -3,7 +3,7 @@
 ---
 
 [Project 1 Title](https://k-ayesha.github.io/Rocket_Design_Class_Project/)
-<img src="/blob/master/Rocket_Design_Class_Project/figures/rocket_geometry.png?raw=true"/>
+<img src="images/rocket_geometry.png?raw=true"/>
 
 <!--
 ---
