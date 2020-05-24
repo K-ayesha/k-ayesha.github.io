@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 Title](https://k-ayesha.github.io/Rocket_Design_Class_Project/)
+[Analytical Rocket Design and Propulsion System Simulation](https://k-ayesha.github.io/Rocket_Design_Class_Project/)
 <img src="images/rocket_geometry.png?raw=true"/>
 
 <!--
