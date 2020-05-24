@@ -2,10 +2,8 @@
 
 ---
 
-### Category Name 1 
-
 [Project 1 Title](https://k-ayesha.github.io/Rocket_Design_Class_Project/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/blob/master/Rocket_Design_Class_Project/figures/rocket_geometry.png?raw=true"/>
 
 <!--
 ---
