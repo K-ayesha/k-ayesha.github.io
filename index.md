@@ -5,6 +5,9 @@
 [Analytical Rocket Design and Propulsion System Simulation](https://k-ayesha.github.io/Rocket_Design_Class_Project/)
 <img src="images/rocket_geometry.png?raw=true"/>
 
+[Chess Piece Prototype](https://k-ayesha.github.io/Additive-Manufacturing-Prototype/)
+<img src="images/ChessP.jpg?raw=true"/>
+
 <!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
