@@ -7,6 +7,7 @@
 
 ---
 [Chess Piece Prototype](https://k-ayesha.github.io/Additive-Manufacturing-Prototype/)
+
 <img src="images/ChessP.jpg?raw=true"/>
 
 <!--
