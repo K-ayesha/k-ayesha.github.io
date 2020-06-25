@@ -11,7 +11,7 @@
 <img src="images/ChessP.jpg?raw=true"/>
 
 ---
-[Ball_Sorting_Machine](https://k-ayesha.github.io/Ball_Sorting_Machine/)
+[Ball Sorting Machine](https://k-ayesha.github.io/Ball_Sorting_Machine/)
 
 <img src="images/system_design.JPG?raw=true"/>
 
