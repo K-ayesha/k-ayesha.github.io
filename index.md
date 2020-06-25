@@ -13,7 +13,7 @@
 ---
 [Ball_Sorting_Machine](https://k-ayesha.github.io/Ball_Sorting_Machine/)
 
-<img src="images/system_design.JPG?raw=true"/>
+<img src="images/system_design.jpg?raw=true"/>
 
 
 <!--
