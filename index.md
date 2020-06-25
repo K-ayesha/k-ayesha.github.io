@@ -10,6 +10,12 @@
 
 <img src="images/ChessP.jpg?raw=true"/>
 
+---
+[Ball_Sorting_Machine](https://k-ayesha.github.io/Ball_Sorting_Machine/)
+
+<img src="images/system_design.JPG?raw=true"/>
+
+
 <!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
